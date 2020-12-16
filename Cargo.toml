@@ -1,0 +1,12 @@
+[package]
+name = "non_solver"
+version = "0.1.0"
+authors = ["Martin Quarda <martin@quarda.cz>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.3"
+adjacent-pair-iterator = "0.1"
+derive_more = "0.99"
+itertools = "0.9"
+rayon = "1.5"
